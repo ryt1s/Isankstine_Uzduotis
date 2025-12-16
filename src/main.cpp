@@ -4,6 +4,7 @@
 #include <string>
 #include <cctype>
 #include <map>
+#include <set>
 
 using namespace std;
 
@@ -15,11 +16,18 @@ int main() {
     }
 
     map<string, int> wordCount;
+    map<string, set<int>> wordLines;
 
     string line;
+    int lineNumber = 0;
+
     while (getline(in, line)) {
+        ++lineNumber;
+
         for (char& c : line) {
-            if (!isalnum(static_cast<unsigned char>(c))) c = ' ';
+            if (!isalnum(static_cast<unsigned char>(c))) {
+                c = ' ';
+            }
         }
 
         stringstream ss(line);
@@ -27,6 +35,7 @@ int main() {
 
         while (ss >> word) {
             wordCount[word]++;
+            wordLines[word].insert(lineNumber);
         }
     }
 
@@ -38,10 +47,14 @@ int main() {
 
     for (const auto& p : wordCount) {
         if (p.second > 1) {
-            out << p.first << " : " << p.second << "\n";
+            out << p.first << " (" << p.second << ") : ";
+            for (int ln : wordLines[p.first]) {
+                out << ln << " ";
+            }
+            out << "\n";
         }
     }
 
-    cout << "Rezultatai issaugoti i outputs/words.txt" << endl;
+    cout << "Cross-reference lentele issaugota i outputs/words.txt" << endl;
     return 0;
 }
