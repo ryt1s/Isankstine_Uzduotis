@@ -1,183 +1,183 @@
-100 (2) : 1 11 
-11 (2) : 14 15 
+=== ZODZIAI (kartojasi > 1) ===
+100 (2) : 1 13 
+11 (2) : 16 17 
 2017 (2) : 1 3 
-2024 (2) : 15 18 
-9 (2) : 3 12 
-All (3) : 1 18 20 
-Ballistic (4) : 1 5 15 
-Battle (12) : 1 3 5 11 14 16 18 
-Brick (2) : 1 12 
-Bucks (2) : 18 
-Creative (7) : 1 3 5 14 16 
-December (4) : 3 15 18 
-Editor (2) : 14 16 
-Epic (7) : 1 3 8 14 15 18 20 
-Festival (7) : 1 5 14 18 
-Fortnite (33) : 1 3 5 8 10 11 12 14 15 16 18 20 
-Furthermore (3) : 5 11 16 
-Games (5) : 1 3 8 14 20 
-Harmonix (4) : 14 
-In (5) : 14 16 18 
-Lego (11) : 1 5 12 18 
-Life (2) : 1 12 
-Main (2) : 14 
-Music (2) : 18 
+9 (2) : 3 14 
+All (3) : 1 20 22 
+Ballistic (4) : 1 5 17 
+Battle (12) : 1 3 5 13 16 18 20 
+Brick (2) : 1 14 
+Bucks (2) : 20 
+Creative (6) : 1 3 5 16 18 
+December (4) : 3 17 20 
+Editor (2) : 16 18 
+Epic (7) : 1 3 10 16 17 20 22 
+Festival (7) : 1 5 16 20 
+Fortnite (31) : 1 3 5 10 13 14 16 17 18 20 22 
+Fortnite: (2) : 1 12 
+Furthermore (3) : 5 13 18 
+Games (4) : 3 10 16 22 
+Harmonix (4) : 16 
+In (5) : 16 18 20 
+Lego (11) : 1 5 14 20 
+Life (2) : 1 14 
+Main (2) : 16 
+Music (2) : 20 
 Nintendo (2) : 5 
-Odyssey (2) : 1 12 
-One (2) : 5 15 
-Pass (4) : 18 
+Odyssey (2) : 1 14 
+One (2) : 5 17 
+Pass (3) : 20 
 PlayStation (2) : 5 
-Racing (3) : 1 5 13 
-Rocket (4) : 1 5 13 
-Royale (11) : 1 3 5 11 14 16 18 
-Save (9) : 1 3 5 10 18 
-Stage (4) : 14 
-Switch (2) : 5 
-The (5) : 5 10 12 18 
-UEFN (3) : 14 16 
-Unreal (2) : 14 16 
-V (2) : 18 
-World (9) : 1 3 5 10 18 
+Racing (3) : 1 5 15 
+Rocket (4) : 1 5 15 
+Royale (11) : 1 3 5 13 16 18 20 
+Save (9) : 1 3 5 12 20 
+Stage (4) : 16 
+The (5) : 5 12 14 20 
+UEFN (3) : 16 18 
+Unreal (2) : 16 18 
+V (2) : 20 
+World (8) : 1 3 5 12 20 
 Xbox (2) : 5 
-a (34) : 1 3 10 11 12 13 14 15 16 18 
-access (3) : 1 3 15 
-addition (2) : 16 18 
-additional (2) : 11 18 
-alive (2) : 11 
-all (4) : 3 5 10 
-allowing (2) : 11 18 
-allows (3) : 11 16 
-also (6) : 5 11 14 16 18 
-an (6) : 1 3 10 11 12 20 
-and (62) : 1 3 5 8 10 11 12 13 14 15 16 18 
-any (4) : 14 16 18 
-are (12) : 1 5 8 10 11 14 15 16 18 20 
-arenas (2) : 1 16 
-as (15) : 3 5 11 12 13 16 18 
-assets (2) : 8 16 
-available (4) : 1 5 11 
-avoiding (2) : 10 13 
-based (3) : 12 15 
-battle (6) : 1 16 18 
-be (7) : 1 10 11 16 18 
+a (34) : 1 3 12 13 14 15 16 17 18 20 
+access (2) : 3 17 
+addition (2) : 18 20 
+additional (2) : 13 20 
+all (4) : 3 5 12 
+allowing (2) : 13 20 
+allows (3) : 13 18 
+also (6) : 5 13 16 18 20 
+an (6) : 1 3 12 13 14 22 
+and (62) : 1 3 5 10 12 13 14 15 16 17 18 20 
+any (4) : 16 18 20 
+are (12) : 1 5 10 12 13 16 17 18 20 22 
+arenas (2) : 1 18 
+as (15) : 3 5 13 14 15 18 20 
+assets. (2) : 10 18 
+available (3) : 1 5 
+avoiding (2) : 12 15 
+based (3) : 14 17 
+battle (6) : 1 18 20 
+be (7) : 1 12 13 18 20 
 been (2) : 3 
-between (2) : 1 20 
-build (2) : 1 12 
-buy (2) : 15 18 
-by (6) : 1 8 13 14 
+between (2) : 1 22 
+build (2) : 1 14 
+buy (2) : 17 20 
+by (6) : 1 10 15 16 
 c (2) : 5 
-can (8) : 1 10 11 12 16 18 
-characters (3) : 10 12 
-collect (2) : 10 12 
-complete (3) : 1 12 16 
-completing (2) : 18 
-consisting (2) : 11 14 
-cooperative (2) : 1 10 
-course (3) : 11 13 18 
-create (3) : 1 16 
-created (2) : 8 14 
-cross (2) : 20 
-currency (2) : 15 18 
-developed (4) : 1 13 14 15 
-device (2) : 15 
-directly (2) : 8 15 
-during (2) : 18 
-each (3) : 8 14 18 
-early (3) : 1 3 15 
-earned (3) : 15 18 
-eliminate (2) : 11 15 
-engine (2) : 1 8 
-except (2) : 1 18 
-experience (3) : 10 18 
-fight (3) : 1 12 
-first (3) : 1 15 
-five (2) : 15 
-for (14) : 3 5 11 12 14 16 18 20 
-four (5) : 1 10 11 12 14 
-free (2) : 1 18 
-freedom (2) : 1 16 
-from (6) : 11 12 13 15 16 
-gaining (2) : 13 18 
-game (30) : 1 5 8 10 11 12 13 14 15 16 18 
-games (6) : 3 12 14 16 18 
-given (2) : 1 16 
-has (3) : 3 8 
-hero (2) : 10 12 
-in (25) : 1 3 10 11 14 15 18 
-is (13) : 1 5 10 11 12 13 14 15 18 
-it (3) : 3 15 16 
-items (3) : 10 11 18 
-last (2) : 1 11 
-main (2) : 11 18 
-map (3) : 11 
-missions (3) : 10 18 
-mode (8) : 1 11 12 14 16 18 
-modes (12) : 1 7 8 11 14 16 18 20 
-more (2) : 3 16 
-of (25) : 3 5 8 10 11 12 14 18 20 
-off (2) : 1 13 
-on (11) : 3 5 10 13 14 15 16 
-one (3) : 11 14 
-or (7) : 10 11 12 13 18 
-other (3) : 11 18 
-pass (3) : 18 
-passes (3) : 18 
-person (3) : 1 15 
-platform (5) : 1 12 15 20 
-platforms (3) : 5 20 
-play (7) : 1 11 12 14 18 20 
-player (6) : 10 11 14 
-players (23) : 1 3 10 11 12 14 15 16 
-progression (2) : 18 
-race (2) : 13 16 
-racing (3) : 1 13 
+can (8) : 1 12 13 14 18 20 
+characters (3) : 12 14 
+collect (2) : 12 14 
+complete (3) : 1 14 18 
+completing (2) : 20 
+consisting (2) : 13 16 
+cooperative (2) : 1 12 
+course (2) : 13 20 
+create (3) : 1 18 
+created (2) : 10 16 
+cross (2) : 22 
+currency (2) : 17 20 
+developed (4) : 1 15 16 17 
+directly (2) : 10 17 
+during (2) : 20 
+each (3) : 10 16 20 
+early (3) : 1 3 17 
+earned (3) : 17 20 
+eliminate (2) : 13 17 
+except (2) : 1 20 
+experience (3) : 12 20 
+fight (3) : 1 14 
+first (3) : 1 17 
+five (2) : 17 
+for (14) : 3 5 13 14 16 18 20 22 
+four (5) : 1 12 13 14 16 
+free (2) : 1 20 
+freedom (2) : 1 18 
+from (6) : 13 14 15 17 18 
+gaining (2) : 15 20 
+game (29) : 1 5 10 12 13 14 15 16 17 18 20 
+games (5) : 3 16 18 20 
+given (2) : 1 18 
+has (3) : 3 10 
+hero (2) : 12 14 
+in (25) : 1 3 12 13 16 17 20 
+is (13) : 1 5 12 13 14 15 16 17 20 
+it (3) : 3 17 18 
+items (3) : 12 13 20 
+last (2) : 1 13 
+main (2) : 13 20 
+map (3) : 13 
+missions (3) : 12 20 
+mode (8) : 1 13 14 16 18 20 
+modes (11) : 1 9 10 13 18 20 22 
+of (25) : 3 5 10 12 13 14 16 20 22 
+off (2) : 1 15 
+on (11) : 3 5 12 15 16 17 18 
+one (3) : 13 16 
+or (7) : 12 13 14 15 20 
+other (3) : 13 20 
+pass (3) : 20 
+passes (2) : 20 
+person (3) : 1 17 
+platform (5) : 1 14 17 22 
+platforms. (2) : 5 22 
+play (5) : 13 14 16 20 22 
+play. (2) : 1 20 
+player (6) : 12 13 16 
+players (22) : 1 3 12 13 14 16 17 18 
+progression (2) : 20 
+race (2) : 15 18 
+racing (3) : 1 15 
 released (4) : 1 3 5 
-resources (2) : 10 11 
-rewards (2) : 18 
-rhythm (3) : 1 14 
-round (3) : 11 14 15 
-rounds (2) : 15 
-s (3) : 11 14 18 
-same (3) : 1 8 18 
-sandbox (2) : 12 16 
-saving (2) : 10 20 
-shooter (3) : 1 15 
-similar (3) : 8 14 
-social (3) : 1 11 12 
-storm (4) : 10 11 
-such (2) : 16 18 
-support (2) : 15 18 
-survival (3) : 1 12 
-survivors (2) : 10 
-tactical (2) : 1 15 
-take (2) : 10 11 
-team (3) : 11 15 
+resources (2) : 12 13 
+rhythm (3) : 1 16 
+round (3) : 13 16 17 
+s (3) : 13 16 20 
+same (3) : 1 10 20 
+sandbox (2) : 14 18 
+saving (2) : 12 22 
+shooter (3) : 1 17 
+similar (3) : 10 16 
+social (3) : 1 13 14 
+storm (2) : 12 13 
+storm. (2) : 12 
+such (2) : 18 20 
+support (2) : 17 20 
+survival (3) : 1 14 
+survivors (2) : 12 
+tactical (2) : 1 17 
+take (2) : 12 13 
+team (3) : 13 17 
 than (2) : 3 
-that (7) : 1 10 11 15 18 
-the (55) : 1 3 5 8 10 11 13 14 15 16 18 
-these (3) : 8 16 18 
-they (3) : 1 11 12 
-those (3) : 5 18 
-three (3) : 11 14 
-through (4) : 10 18 
-time (3) : 3 11 18 
-to (42) : 1 10 11 12 13 14 15 16 18 20 
-tools (2) : 12 
-until (3) : 3 11 14 
-up (6) : 1 3 10 11 12 
-use (2) : 18 20 
-using (3) : 8 14 16 
-various (4) : 10 11 12 
-versions (3) : 1 3 12 
-versus (2) : 10 11 
-was (3) : 3 18 
-weapons (5) : 11 12 15 
-well (3) : 5 13 18 
-were (3) : 3 5 18 
-where (2) : 12 
-which (13) : 1 10 11 14 16 18 
-while (7) : 3 5 10 11 13 14 15 
-with (5) : 1 5 10 18 
-within (2) : 14 16 
-world (2) : 1 18 
-worlds (2) : 1 16 
+that (7) : 1 12 13 17 20 
+the (55) : 1 3 5 10 12 13 15 16 17 18 20 
+these (3) : 10 18 20 
+they (3) : 1 13 14 
+those (3) : 5 20 
+three (3) : 13 16 
+through (4) : 12 20 
+time (2) : 13 20 
+to (42) : 1 12 13 14 15 16 17 18 20 22 
+tools (2) : 14 
+until (3) : 3 13 16 
+up (6) : 1 3 12 13 14 
+use (2) : 20 22 
+using (3) : 10 16 18 
+various (4) : 12 13 14 
+versions (3) : 1 3 14 
+versus (2) : 12 13 
+was (3) : 3 20 
+weapons (4) : 13 14 17 
+well (3) : 5 15 20 
+were (3) : 3 5 20 
+where (2) : 14 
+which (13) : 1 12 13 16 18 20 
+while (7) : 3 5 12 13 15 16 17 
+with (5) : 1 5 12 20 
+within (2) : 16 18 
+world (2) : 1 20 
+worlds (2) : 1 18 
+
+=== RASTI URL ===
+g.g
+www.kazkur.lt
