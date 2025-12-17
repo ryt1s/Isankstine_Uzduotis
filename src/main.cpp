@@ -80,11 +80,12 @@ int main() {
     out << "Zodziai, kurie kartojasi daugiau nei 1 karta : \n";
     for (const auto& p : wordCount) {
         if (p.second > 1) {
-            out << p.first << " (" << p.second << ") : ";
+            out << p.first << " (" << p.second << " kartai)\n ";
+            out << " eiutes: ";
             for (int ln : wordLines[p.first]) {
                 out << ln << " ";
             }
-            out << "\n";
+            out << "\n\n";
         }
     }
 
