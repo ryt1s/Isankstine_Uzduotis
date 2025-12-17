@@ -21,6 +21,14 @@ bool isURL(const string& word) {
     return false;
 }
 
+string toLower(const string& s) {
+    string result = s;
+    for (char& c : result) {
+        c = tolower(static_cast<unsigned char>(c));
+    }
+    return result;
+}
+
 int main() {
     ifstream in("data/input.txt");
     if (!in) {
@@ -52,7 +60,9 @@ int main() {
         while (ss >> word) {
             if (isURL(word)) {
                 urls.insert(word);
+                continue;
             }
+            word = toLower(word);
 
             if (isalnum(static_cast<unsigned char>(word[0]))) {
                 wordCount[word]++;
