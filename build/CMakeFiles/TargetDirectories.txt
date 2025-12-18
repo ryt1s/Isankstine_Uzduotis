@@ -1,3 +1,0 @@
-C:/Users/rytis/Desktop/c++/Isankstine_Uzduotis/build/CMakeFiles/word_analyzer.dir
-C:/Users/rytis/Desktop/c++/Isankstine_Uzduotis/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/rytis/Desktop/c++/Isankstine_Uzduotis/build/CMakeFiles/ZERO_CHECK.dir
