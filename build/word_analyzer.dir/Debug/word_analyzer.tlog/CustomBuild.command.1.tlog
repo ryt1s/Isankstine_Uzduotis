@@ -1,0 +1,10 @@
+^C:\USERS\RYTIS\DESKTOP\C++\ISANKSTINE_UZDUOTIS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/rytis/Desktop/c++/Isankstine_Uzduotis -BC:/Users/rytis/Desktop/c++/Isankstine_Uzduotis/build --check-stamp-file C:/Users/rytis/Desktop/c++/Isankstine_Uzduotis/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

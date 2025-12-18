@@ -1,0 +1,10 @@
+^C:\USERS\RYTIS\DESKTOP\C++\ISANKSTINE_UZDUOTIS\BUILD\CMAKEFILES\1012B9A89C17C06290C68A4DAD3FF9E9\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/rytis/Desktop/c++/Isankstine_Uzduotis -BC:/Users/rytis/Desktop/c++/Isankstine_Uzduotis/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/rytis/Desktop/c++/Isankstine_Uzduotis/build/WordAnalyzer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
