@@ -1,14 +1,7 @@
 Zodziai, kurie kartojasi daugiau nei 1 karta:
 
-bucke (2 kartai)
-  eilutes: 7 8 
-
-buckefps (2 kartai)
-  eilutes: 6 9 
-
-o (3 kartai)
+a (3 kartai)
   eilutes: 1 
 
 Rasti URL:
-Wasisdas.com
-what.com
+a.com
