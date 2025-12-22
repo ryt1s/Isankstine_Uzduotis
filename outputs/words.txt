@@ -1,100 +1,14 @@
-Zodziai, kurie kartojasi daugiau nei 1 karta : 
-15 (2 kartai)
-  eiutes: 3 
+Zodziai, kurie kartojasi daugiau nei 1 karta:
 
-a (2 kartai)
-  eiutes: 1 
+bucke (2 kartai)
+  eilutes: 7 8 
 
-adding (2 kartai)
-  eiutes: 1 
+buckefps (2 kartai)
+  eilutes: 6 9 
 
-and (9 kartai)
-  eiutes: 1 3 
+o (3 kartai)
+  eilutes: 1 
 
-applications (3 kartai)
-  eiutes: 3 
-
-as (4 kartai)
-  eiutes: 1 3 
-
-c (7 kartai)
-  eiutes: 1 3 
-
-constrained (2 kartai)
-  eiutes: 3 
-
-e.g. (2 kartai)
-  eiutes: 3 
-
-features (4 kartai)
-  eiutes: 1 
-
-for (2 kartai)
-  eiutes: 1 
-
-has (3 kartai)
-  eiutes: 1 3 
-
-in (4 kartai)
-  eiutes: 1 3 
-
-including (2 kartai)
-  eiutes: 1 3 
-
-is (2 kartai)
-  eiutes: 1 
-
-language (3 kartai)
-  eiutes: 1 
-
-level (2 kartai)
-  eiutes: 1 
-
-like (3 kartai)
-  eiutes: 1 
-
-many (2 kartai)
-  eiutes: 1 3 
-
-of (4 kartai)
-  eiutes: 1 3 
-
-oop (2 kartai)
-  eiutes: 1 
-
-or (4 kartai)
-  eiutes: 1 3 
-
-other (2 kartai)
-  eiutes: 1 3 
-
-performance (2 kartai)
-  eiutes: 3 
-
-programming (4 kartai)
-  eiutes: 1 3 
-
-resource (2 kartai)
-  eiutes: 3 
-
-software (3 kartai)
-  eiutes: 1 3 
-
-systems (4 kartai)
-  eiutes: 1 3 
-
-the (3 kartai)
-  eiutes: 1 
-
-to (2 kartai)
-  eiutes: 1 
-
-use (2 kartai)
-  eiutes: 1 3 
-
-with (3 kartai)
-  eiutes: 3 
-
-
-Rasti URL : 
-fortnite.com
+Rasti URL:
+Wasisdas.com
+what.com
